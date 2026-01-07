@@ -10,6 +10,6 @@ I also monitor and troubleshoot production issues using tools like CloudWatch, P
 
 I am passionate about automation, problem-solving, and cloud technologies, and I enjoy finding ways to make infrastructure more efficient, secure, and reliable. 
 
-I’m looking to grow further in a DevOps-focused role where I can work on scalable cloud 
+I’m looking to grow further in a DevOps-focused role where I can work on scalable cloud platforms, improve deployment processes, and contribute to building robust and reliable systems. 
 
  
